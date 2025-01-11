@@ -1,0 +1,4 @@
+baseURL = 'https://greyw0lv.github.io/'
+languageCode = 'en-us'
+title = 'Noahs Blog'
+theme = 'ananke'
